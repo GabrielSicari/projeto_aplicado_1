@@ -5,7 +5,7 @@ A Xtreme Groovy Bikes Sales é uma empresa de revenda de motocicletas. Seu model
 A base de dados
  
 O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle. O link para acesso aos dados:
-Motorcycle Dataset | Kaggle
+https://www.kaggle.com/datasets/nehalbirla/motorcycle-dataset
  
 A segunda base de dados, com o nome companies.csv foi enviado diretamente pra mim por email, então não consigo enviar o link, porém, ela está anexada juntamente com os demais arquivos no Github.
  
