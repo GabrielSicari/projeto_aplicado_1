@@ -1,3 +1,6 @@
+https://gabrielsicari-projeto-aplicado-1-to-github-yookag.streamlitapp.com/
+
+
 Problema de Negócio
  
 A Xtreme Groovy Bikes Sales é uma empresa de revenda de motocicletas. Seu modelo de negócio é revender motocicletas usadas. Com a crescente do valor dos veículos usados, a XGB Sales, como é conhecida, deseja expandir os seus negócios. Você foi contratado como cientista de dados pela empresa XGB Sales para ajudá-los a encontrar as melhores motocicletas para revenda.Para isso, o CEO da empresa fez um estudo de mercado e lhe entregou uma base de dados, obtida através desse estudo, para que você consiga auxiliá-lo a encontrar as melhores motocicletas para revenda, aumentando assim o lucro da empresa.Além disso, o CEO lhe fez algumas perguntas acerca da base de dados que a empresa possui. Lembrando que o contexto, pessoas e perguntas são completamente fictícios, criados para estudo.
