@@ -66,7 +66,7 @@ def set_commercial( data ):
 if __name__ == "__main__":
     # ETL
 
-    path = 'bikes_completed.csv'
+    path = 'D:/projeto mackenzie/bikes_completed.csv'
 
     # load data
     data = get_data(path)
